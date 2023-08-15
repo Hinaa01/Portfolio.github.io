@@ -462,6 +462,7 @@ a {
     color:white;
     font-weight: 600;
     font-size: 15px;
+    cursor: pointer;
 }
 
 .introbutton1:hover {
@@ -609,6 +610,7 @@ a {
     color:white;
     font-weight: 600;
     font-size: 15px;
+    cursor: pointer;
 }
 
 #aboutmebuttonRm:hover {
